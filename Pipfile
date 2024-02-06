@@ -12,7 +12,7 @@ wordcloud = "*"
 matplotlib = "*"
 nltk = "*"
 scikit-learn = "*"
-
+nbstripout = "*"
 
 [dev-packages]
 
