@@ -2,7 +2,7 @@
 This is a project for beginners. Source: [here on Kaggle](https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-for-beginners)
 
 ### Tech Stack
-- **Languages:** Python, Jupyter Notebook
+- **Languages:** Python
 - **Packages:** numpy, pandas, matplotlib, nltk, scikit-learn, seaborn, wordcloud
 
 ### Project status
